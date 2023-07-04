@@ -1,0 +1,10 @@
+{
+  "name": "@ghoon/tsconfig",
+  "version": "0.0.0",
+  "description": "base tsconfig",
+  "license": "ISC",
+  "private": true,
+  "publishConfig": {
+    "access": "public"
+  }
+}
